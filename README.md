@@ -8,12 +8,9 @@ I am a Software Engineer with over 5 years of experience developing robust and s
 
 ### 🇦🇺 Currently on Exchange in Australia
 
-> 🌏 **Living my international dream!**
-
 I'm currently in **Brisbane, Australia** on an exchange program, combining my passion for technology with personal growth:
 
 - 🎓 **Studying English at ILSC** – Working towards B2 level proficiency
-- 🌱 **Expanding horizons** – Experiencing a new culture while staying connected to the tech community
 - 💼 **Open to opportunities** – Looking to connect with professionals and companies in the Australian tech scene
 
 ---
