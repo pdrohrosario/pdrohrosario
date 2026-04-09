@@ -1,7 +1,5 @@
 # I'm Pedro Henrique Rosário! 👋
 
-## Software Engineer | Java & Spring Boot | TypeScript | NestJS | Microservices
-
 I am a Software Engineer with over 5 years of experience developing robust and scalable back-end systems, with a strong focus on the **Financial and Real Estate market**.
 
 ---
