@@ -8,7 +8,7 @@ I am a Software Engineer with over 5 years of experience developing robust and s
 
 I'm currently in **Brisbane, Australia** on an exchange program, combining my passion for technology with personal growth:
 
-- 🎓 **Studying English at ILSC** – Working towards B2 level proficiency
+- 🎓 **Studying English at ILSC** – Working towards improve my proficiency
 - 💼 **Open to opportunities** – Looking to connect with professionals and companies in the Australian tech scene
 
 ---
