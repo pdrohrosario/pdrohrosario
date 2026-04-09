@@ -1,4 +1,4 @@
-adicioone e formate melhor esse texto n# Hi there, I'm Pedro Henrique Rosário! 👋
+I'm Pedro Henrique Rosário! 👋
 
 ## Software Engineer | Java & Spring Boot | TypeScript | NestJS | Microservices
 
